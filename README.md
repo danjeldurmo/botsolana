@@ -1,6 +1,5 @@
-# botsolana
+# Solana Trading Bot for Raydium Liquidity Pool V4
 
-Solana Trading Bot for Raydium Liquidity Pool V4
 We have developed a Python script that detects newly issued pairs in the Raydium Liquidity Pool V4 (Solana) and performs automated token trading based on user-defined conditions. Here's how it works:
  
 Detection of new pairs as they are listed.
@@ -19,3 +18,10 @@ The source code is sold "as-is" along with a guide. Customization and integratio
 🔹 Note: The code is written in pure Python with no graphical interface, so we recommend it for users with basic technical knowledge—though modifying parameters and running it is very straightforward.
  
 📩 For inquiries: info@datanext.app
+
+
+![1-sol](https://github.com/user-attachments/assets/8f7dfce8-ac5e-4163-b360-d1206cf6d8be)
+![2-sol](https://github.com/user-attachments/assets/68b8de6c-100d-4046-a83c-1dba7e741738)
+![3-sol](https://github.com/user-attachments/assets/9bc966e9-6b99-478b-9990-39c7a33e195f)
+![4-sol](https://github.com/user-attachments/assets/b681100b-f144-4234-9e6b-d0eba20ad031)
+![5-sol](https://github.com/user-attachments/assets/44649f07-d312-4e28-ab55-676ce7df2794)
